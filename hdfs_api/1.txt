@@ -1,0 +1,9 @@
+hello 
+ruok
+imok
+ls
+mkdir
+cp
+touch
+echo
+find / -name "*.java"
